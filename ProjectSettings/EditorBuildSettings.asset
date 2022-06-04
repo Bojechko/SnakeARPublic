@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/PetAR/Main AR.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    AR Foundation RemoteARFoundationRemoteLoaderSettings: {fileID: 11400000, guid: a3474b034821b5b4985290b9e2f1eaa2, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 5937042ec7be03b4f834c7480dd9d4f9, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 87b62610bcf076e45a07c1bdf563ecea, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ad025773551b219428df3982b7c81f3b, type: 2}
